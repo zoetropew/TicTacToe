@@ -10,6 +10,7 @@ Features include:
 Playing against the computer:
 1. Run program without giving arguments for board. Program will print empty board and prompt user for move (you are X)
 ```sh
+$ ./tictactoe
 ? | ? | ?
 --+---+--
 ? | ? | ?
@@ -41,6 +42,7 @@ Finding next move for O if given incomplete board:
 2. Program will print board and give a suggested next move for O
 Example:
 ```sh
+$ ./tictactoe X O ? O
 X | O | ?
 --+---+--
 O | ? | ?
