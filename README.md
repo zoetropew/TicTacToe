@@ -16,8 +16,8 @@ Playing against the computer:
 
 Finding winner of completed board:
 1. Run program with the game board in the arguments. Type X, O, or ? (for empty space) in order from left to right and top to bottom on the board, filling in the whole board. Example:
-```c
-./main X O ? O X O ? ? X
+```sh
+$ ./tictactoe X O ? O X O ? ? X
 ```
 2. Program will print the given board and then print either a winner or a draw
 
