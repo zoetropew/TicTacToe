@@ -23,3 +23,4 @@ Finding winner of completed board:
 
 Finding next move for O if given incomplete board:
 1. Run program with the incomplete game board in the arguments. Type X, O, or ? (for empty space) in order from left to right and top to bottom on the board. You do not need to fill all 9 spaces.
+2. Program will print board and give a suggested next move for O
