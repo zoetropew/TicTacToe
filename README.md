@@ -1,5 +1,5 @@
 # TicTacToe
-A project done for a C & Systems Programming class (CS221) at the University of San Francisco.
+A simple game of Tic Tac Toe
 
 Features include:
 1. Playing against the computer
